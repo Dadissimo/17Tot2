@@ -1,0 +1,14 @@
+F:\Visual Studios Projects\17Tot\17Tot\bin\Debug\17Tot.exe.config
+F:\Visual Studios Projects\17Tot\17Tot\bin\Debug\17Tot.exe
+F:\Visual Studios Projects\17Tot\17Tot\bin\Debug\17Tot.pdb
+F:\Visual Studios Projects\17Tot\17Tot\obj\Debug\17Tot.csprojResolveAssemblyReference.cache
+F:\Visual Studios Projects\17Tot\17Tot\obj\Debug\17Tot.csproj.CoreCompileInputs.cache
+F:\Visual Studios Projects\17Tot\17Tot\obj\Debug\17Tot.exe
+F:\Visual Studios Projects\17Tot\17Tot\obj\Debug\17Tot.pdb
+C:\Users\Dragan\source\repos\17Tot\17Tot\bin\Debug\17Tot.exe.config
+C:\Users\Dragan\source\repos\17Tot\17Tot\bin\Debug\17Tot.exe
+C:\Users\Dragan\source\repos\17Tot\17Tot\bin\Debug\17Tot.pdb
+C:\Users\Dragan\source\repos\17Tot\17Tot\obj\Debug\17Tot.csprojResolveAssemblyReference.cache
+C:\Users\Dragan\source\repos\17Tot\17Tot\obj\Debug\17Tot.csproj.CoreCompileInputs.cache
+C:\Users\Dragan\source\repos\17Tot\17Tot\obj\Debug\17Tot.exe
+C:\Users\Dragan\source\repos\17Tot\17Tot\obj\Debug\17Tot.pdb
